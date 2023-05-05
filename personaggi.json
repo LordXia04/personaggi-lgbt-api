@@ -1,0 +1,12 @@
+[
+    {
+        "id": "0",
+        "name": "John Doe",
+        "game": "League of Legends"
+    },
+    {
+        "id": "1",
+        "name": "Jane Doe",
+        "game": "League of Legends"
+    }
+]
