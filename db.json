@@ -1,12 +1,24 @@
-[
-    {
-        "id": "0",
-        "name": "John Doe",
-        "game": "League of Legends"
-    },
-    {
-        "id": "1",
-        "name": "Jane Doe",
-        "game": "League of Legends"
-    }
-]
+{
+    "vg":[
+        {
+            "id": "0",
+            "name": "John Doe",
+            "game": "League of Legends"
+        },
+        {
+            "id": "1",
+            "name": "Jane Doe",
+            "game": "League of Legends"
+        },
+        {
+            "id": "2",
+            "name": "John Doe",
+            "game": "League of Legends"
+        },
+        {
+            "id": "3",
+            "name": "Jane Doe",
+            "game": "League of Legends"
+        }
+    ]
+}
