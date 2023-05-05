@@ -2,23 +2,228 @@
     "vg":[
         {
             "id": "0",
-            "name": "John Doe",
-            "game": "League of Legends"
+            "name": "Caitlyn",
+            "game": "League of Legends",
+            "orientation": "Lesbian",
+            "tag": ["","",""],
+            "image": "",
+            "desc": ""
         },
         {
             "id": "1",
-            "name": "Jane Doe",
-            "game": "League of Legends"
+            "name": "Graves",
+            "game": "League of Legends",
+            "orientation": "Gay",
+            "tag": ["","",""],
+            "image": "",
+            "desc": ""
         },
         {
             "id": "2",
-            "name": "John Doe",
-            "game": "League of Legends"
+            "name": "Nami",
+            "game": "League of Legends",
+            "orientation": "Bisexual",
+            "tag": ["","",""],
+            "image": "",
+            "desc": ""
         },
         {
             "id": "3",
-            "name": "Jane Doe",
-            "game": "League of Legends"
+            "name": "K'Sante",
+            "game": "League of Legends",
+            "orientation": "Gay or bi",
+            "tag": ["","",""],
+            "image": "",
+            "desc": ""
+        },
+        {
+            "id": "4",
+            "name": "Tracer",
+            "game": "Overwatch",
+            "orientation": "Lesbian",
+            "tag": ["","",""],
+            "image": "",
+            "desc": ""
+        },
+        {
+            "id": "5",
+            "name": "Ellie",
+            "game": "The Last of Us",
+            "orientation": "Lesbian",
+            "tag": ["","",""],
+            "image": "",
+            "desc": ""
+        },
+        {
+            "id": "6",
+            "name": "Dorian Pavus",
+            "game": "Dragon Age: Inquisition",
+            "orientation": "Gay",
+            "tag": ["","",""],
+            "image": "",
+            "desc": ""
+        },
+        {
+            "id": "7",
+            "name": "Sera",
+            "game": "Dragon Age: Inquisition",
+            "orientation": "Lesbian",
+            "tag": ["","",""],
+            "image": "",
+            "desc": ""
+        },
+        {
+            "id": "8",
+            "name": "Jacob Frye",
+            "game": "Assassin's Creed Syndicate",
+            "orientation": "Pansexual",
+            "tag": ["","",""],
+            "image": "",
+            "desc": ""
+        },
+        {
+            "id": "9",
+            "name": "Lena Oxton (Tracer)",
+            "game": "Heroes of the Storm",
+            "orientation": "Lesbian",
+            "tag": ["","",""],
+            "image": "",
+            "desc": ""
+        },
+        {
+            "id": "10",
+            "name": "Billie Lurk",
+            "game": "Dishonored: Death of the Outsider",
+            "orientation": "Queer",
+            "tag": ["","",""],
+            "image": "",
+            "desc": ""
+        },
+        {
+            "id": "11",
+            "name": "Ava",
+            "game": "Borderlands 3",
+            "orientation": "Lesbian",
+            "tag": ["","",""],
+            "image": "",
+            "desc": ""
+        },
+        {
+            "id": "12",
+            "name": "Kanji Tatsumi",
+            "game": "Persona 4",
+            "orientation": "Bisexual",
+            "tag": ["","",""],
+            "image": "",
+            "desc": ""
+        },
+        {
+            "id": "13",
+            "name": "Caithe",
+            "game": "Guild Wars 2",
+            "orientation": "Lesbian",
+            "tag": ["","",""],
+            "image": "",
+            "desc": ""
+        },
+        {
+            "id": "14",
+            "name": "Samantha Traynor",
+            "game": "Mass Effect 3",
+            "orientation": "Lesbian",
+            "tag": ["","",""],
+            "image": "",
+            "desc": ""
+        },
+        {
+            "id": "15",
+            "name": "Iron Bull",
+            "game": "Dragon Age: Inquisition",
+            "orientation": "Pansexual",
+            "tag": ["","",""],
+            "image": "",
+            "desc": ""
+        },
+        {
+            "id": "16",
+            "name": "Sir Hammerlock",
+            "game": "Borderlands 2",
+            "orientation": "Gay",
+            "tag": ["","",""],
+            "image": "",
+            "desc": ""
+        },
+        {
+            "id": "17",
+            "name": "Cremisius Aclassi",
+            "game": "Dragon Age: Inquisition",
+            "orientation": "Transgender",
+            "tag": ["","",""],
+            "image": "",
+            "desc": ""
+        },
+        {
+            "id": "18",
+            "name": "Senua",
+            "game": "Hellblade: Senua's Sacrifice",
+            "orientation": "Ambiguous",
+            "tag": ["","",""],
+            "image": "",
+            "desc": ""
+        },
+        {
+            "id": "19",
+            "name": "Ellie",
+            "game": "Borderlands 2",
+            "orientation": "Lesbian",
+            "tag": ["","",""],
+            "image": "",
+            "desc": ""
+        },
+        {
+            "id": "20",
+            "name": "Kanji Tatsumi",
+            "game": "Persona 4",
+            "orientation": "Bisexual",
+            "tag": ["","",""],
+            "image": "",
+            "desc": ""
+        },
+        {
+            "id": "21",
+            "name": "Jacob Frye",
+            "game": "Assassin's Creed Syndicate",
+            "orientation": "Pansexual",
+            "tag": ["","",""],
+            "image": "",
+            "desc": ""
+        },
+        {
+            "id": "22",
+            "name": "Zevran Arainai",
+            "game": "Dragon Age: Origins",
+            "orientation": "Bisexual",
+            "tag": ["","",""],
+            "image": "",
+            "desc": ""
+        },
+        {
+            "id": "23",
+            "name": "Juhani",
+            "game": "Star Wars: Knights of the Old Republic",
+            "orientation": "Lesbian",
+            "tag": ["","",""],
+            "image": "",
+            "desc": ""
+        },
+        {
+            "id": "24",
+            "name": "Jack",
+            "game": "Mass Effect 2",
+            "orientation": "Pansexual",
+            "tag": ["","",""],
+            "image": "",
+            "desc": ""
         }
-    ]
+]
 }
