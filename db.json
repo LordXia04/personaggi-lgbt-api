@@ -6,7 +6,7 @@
             "game": "League of Legends",
             "orientation": "Lesbian",
             "tag": ["","",""],
-            "image": "",
+            "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Caitlyn_0.jpg",
             "desc": ""
         },
         {
@@ -15,7 +15,7 @@
             "game": "League of Legends",
             "orientation": "Gay",
             "tag": ["","",""],
-            "image": "",
+            "image": "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/blt5796e3d258e95471/5e83cb29cfad926479634951/Graves_00_Base-Cigar.jpg?quality=90&width=1215",
             "desc": ""
         },
         {
@@ -24,7 +24,7 @@
             "game": "League of Legends",
             "orientation": "Bisexual",
             "tag": ["","",""],
-            "image": "",
+            "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Nami_0.jpg",
             "desc": ""
         },
         {
@@ -33,7 +33,7 @@
             "game": "League of Legends",
             "orientation": "Gay or bi",
             "tag": ["","",""],
-            "image": "",
+            "image": "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/blt15d3facea57e5b7e/634613111338101198fce129/K_Sante-Base-Splash.jpg",
             "desc": ""
         },
         {
@@ -42,7 +42,7 @@
             "game": "Overwatch",
             "orientation": "Lesbian",
             "tag": ["","",""],
-            "image": "",
+            "image": "https://images5.alphacoders.com/690/thumb-1920-690653.png",
             "desc": ""
         },
         {
@@ -51,7 +51,7 @@
             "game": "The Last of Us",
             "orientation": "Lesbian",
             "tag": ["","",""],
-            "image": "",
+            "image": "https://images.pushsquare.com/1f9f24718cff7/the-last-of-us-2-how-many-chapters-are-there.large.jpg",
             "desc": ""
         },
         {
@@ -60,7 +60,7 @@
             "game": "Dragon Age: Inquisition",
             "orientation": "Gay",
             "tag": ["","",""],
-            "image": "",
+            "image": "https://i.ytimg.com/vi/AL8ea35s-zA/maxresdefault.jpg",
             "desc": ""
         },
         {
@@ -69,7 +69,7 @@
             "game": "Dragon Age: Inquisition",
             "orientation": "Lesbian",
             "tag": ["","",""],
-            "image": "",
+            "image": "https://static1.cbrimages.com/wordpress/wp-content/uploads/2020/11/Dragon-Age-Sera-Inquisition.jpg",
             "desc": ""
         },
         {
@@ -78,16 +78,16 @@
             "game": "Assassin's Creed Syndicate",
             "orientation": "Pansexual",
             "tag": ["","",""],
-            "image": "",
+            "image": "https://sm.ign.com/ign_ap/news/a/assassins-/assassins-creed-syndicate-jacob-frye-statue-up-for_y551.jpg",
             "desc": ""
         },
         {
             "id": "9",
-            "name": "Lena Oxton (Tracer)",
-            "game": "Heroes of the Storm",
-            "orientation": "Lesbian",
+            "name": "Twisted Fate",
+            "game": "League of Legends",
+            "orientation": "Gay",
             "tag": ["","",""],
-            "image": "",
+            "image": "https://images.contentstack.io/v3/assets/blt187521ff0727be24/blt648f38bcfb9410c1/60ee13167897c2473be7c2c9/TwistedFate_0.jpg",
             "desc": ""
         },
         {
@@ -221,6 +221,15 @@
             "name": "Jack",
             "game": "Mass Effect 2",
             "orientation": "Pansexual",
+            "tag": ["","",""],
+            "image": "",
+            "desc": ""
+        },
+        {
+            "id": "25",
+            "name": "Vi",
+            "game":"League of Legends",
+            "orientation":"Lesbian",
             "tag": ["","",""],
             "image": "",
             "desc": ""
