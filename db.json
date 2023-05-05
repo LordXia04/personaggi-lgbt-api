@@ -233,6 +233,24 @@
             "tag": ["","",""],
             "image": "",
             "desc": ""
+        },
+        {
+            "id": "26",
+            "name": "Vi",
+            "game":"League of Legends",
+            "orientation":"Lesbian",
+            "tag": ["","",""],
+            "image": "",
+            "desc": ""
+        },
+        {
+            "id": "27",
+            "name": "Vi",
+            "game":"League of Legends",
+            "orientation":"Lesbian",
+            "tag": ["","",""],
+            "image": "",
+            "desc": ""
         }
 ]
 }
